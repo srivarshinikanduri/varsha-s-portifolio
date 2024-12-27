@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Srivarshini Kanduri - Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 1000px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #2C3E50;
+        }
+
+        .profile-info {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .profile-info div {
+            width: 45%;
+            margin-bottom: 15px;
+        }
+
+        .profile-info label {
+            font-weight: bold;
+            color: #34495E;
+        }
+
+        .profile-info p {
+            font-size: 1.1em;
+            color: #7f8c8d;
+        }
+
+        .contact-info {
+            background-color: #ecf0f1;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+
+        .contact-info h2 {
+            text-align: center;
+            color: #2C3E50;
+        }
+
+        .contact-info p {
+            font-size: 1.1em;
+            text-align: center;
+            color: #7f8c8d;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 1em;
+            color: #7f8c8d;
+        }
+
+        .footer a {
+            color: #2980B9;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
